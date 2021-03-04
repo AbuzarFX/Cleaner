@@ -1,5 +1,5 @@
 const { ShardingManager } = require('discord.js');
-const token = "ODA3MjQ1MzczMDA4OTA0MjI1.YB1L1g.m2Ueo8jsSIz19I55hF2iTU5KZvE";
+const token = "YOUR_DISCORD_TOKEN";
 const ConsoleHandler = require('./src/util/ConsoleHandler');
 
 const path = require('path');
