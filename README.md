@@ -1,5 +1,5 @@
 # Cleaner 
-<p>Cleaner is a bot that can delete a variety of different messages, wether it be messages that begin with the most common command symbols, messages by a certain user or messages sent by bots, there is a command/parameter that'll help clean up your chats regardless of what's posted.</p>
+<p>Cleaner is a bot that can delete a variety of different messages, whether it be messages that begin with the most common command symbols, messages by a certain user or messages sent by bots, there is a command/parameter that'll help clean up your chats regardless of what's posted.</p>
 
 ---
 
@@ -107,6 +107,5 @@ Below is a list of all available parameters and what they do.. You can use **mul
 >  *Here is a great [support article](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) talking about how to copy ids from users, roles, messages, guilds, etc..*
 
 #### Support Server
-If you have any issues that aren't mentioned here, stop by our [support server](https://discord.gg/Gkdbyeh) and see if we can help there
+If you have any issues that aren't mentioned here, stop by our [support server](https://discord.gg/PGew5Ysp4b) and see if we can help there.
 
-[![Discord Server Banner](https://discordapp.com/api/guilds/417535126088450048/widget.png?style=banner2&theme=dark)](https://discord.gg/Gkdbyeh)
